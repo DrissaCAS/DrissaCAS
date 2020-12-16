@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hey guys, I'm Drissa 👋
+Welcome to my GitHub!
 
+🎓 Studying Systems Analysis and Development in Salvador, Bahia-Brazil
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrissaCAS&layout=compact)](https://github.com/DrissaCAS/github-readme-stats)
 <!--
 **DrissaCAS/DrissaCAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
