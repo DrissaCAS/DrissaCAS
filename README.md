@@ -6,7 +6,7 @@ Welcome to my GitHub!
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-### Tecnologias e Ferramentas que utilizo:
+### Technologies and tools that use:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -15,7 +15,7 @@ Welcome to my GitHub!
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-### Contatos:
+### Contacts:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drissa-santos/)](https://www.linkedin.com/in/drissa-santos/) 
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:drissa_cas@hotmail.com)](mailto:drissa_cas@hotmail.com)
