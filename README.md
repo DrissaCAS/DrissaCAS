@@ -30,6 +30,18 @@ Spanish - &starf;&starf;&starf;&star;&star;
 
 English - &starf;&starf;&star;&star;&star;
 
+## Featured Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=drissacas&repo=phd-thesis&theme=dracula)](https://github.com/DrissaCAS/pokedex)
+
+## GitHub Stats
+
+![drissacas's GitHub stats](https://github-readme-stats.vercel.app/api?username=drissacas&show_icons=true&theme=dracula)
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drissacas&layout=compact&theme=dracula)
+
 ## Contacts:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:drissa_cas@hotmail.com)](mailto:drissa_cas@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drissa-santos/) 
@@ -37,5 +49,3 @@ English - &starf;&starf;&star;&star;&star;
 
 
 After all, it is life's challenges that make life happen, as Socrates said, “a life without challenges is not worth living”.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrissaCAS&layout=compact)](https://github.com/DrissaCAS/github-readme-stats)
