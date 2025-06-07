@@ -30,10 +30,6 @@ Spanish - &starf;&starf;&starf;&star;&star;
 
 English - &starf;&starf;&star;&star;&star;
 
-## Featured Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=drissacas&repo=phd-thesis&theme=dracula)](https://github.com/DrissaCAS/pokedex)
-
 ## GitHub Stats
 
 ![drissacas's GitHub stats](https://github-readme-stats.vercel.app/api?username=drissacas&show_icons=true&theme=dracula)
